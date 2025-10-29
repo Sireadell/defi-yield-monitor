@@ -2,3 +2,21 @@
 __pycache__/
 *.pyc
 src/db/pools.db
+
+# Environment & local files
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+"*.db" 
